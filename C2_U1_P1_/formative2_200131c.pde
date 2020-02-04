@@ -62,7 +62,7 @@ class Module {
   
   
   void display() {
-    fill(255);
+    fill(203,229,125);
     ellipse(xOffset + x, yOffset + y, 6, 6);
   }
 }
